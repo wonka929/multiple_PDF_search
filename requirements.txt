@@ -1,5 +1,5 @@
-pymupdf
 streamlit
 fitz
 frontend
 tools
+pymupdf
