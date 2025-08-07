@@ -1,2 +1,5 @@
-PyPDF2
+pymupdf
 streamlit
+fitz
+frontend
+tools
